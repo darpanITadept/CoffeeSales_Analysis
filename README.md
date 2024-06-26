@@ -29,7 +29,7 @@ To use the Coffee Sales Dashboard, follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/coffeesales-dashboard.git
+    git clone https://github.com/darpanITadept/CoffeeSales_Analysis.git
     ```
 2. **Open the Excel File**: 
     - Navigate to the cloned repository folder and open the Excel file with the dashboard.
@@ -54,7 +54,7 @@ The Coffee Sales Dashboard is a powerful tool for analyzing coffee bean sales da
 
 ## 📬 Contact
 
-For any queries or feedback, please reach out to [your email].
+For any queries or feedback, please reach out to darpan.itadept@gmail.com .
 
 ---
 
