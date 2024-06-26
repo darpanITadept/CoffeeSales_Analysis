@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard
 
-![Coffee Sales Dashboard](./path/to/image.png)
+<img width="1306" alt="Screenshot 2024-06-26 at 8 40 38 PM" src="https://github.com/darpanITadept/CoffeeSales_Analysis/assets/112990024/b2badc48-a5f4-496b-950d-b4a131e23c81">
 
 ## Overview
 
