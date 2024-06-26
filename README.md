@@ -1,29 +1,29 @@
-# Coffee Sales Dashboard
+# ☕ Coffee Sales Dashboard ☕
 
-<img width="1306" alt="Screenshot 2024-06-26 at 8 40 38 PM" src="https://github.com/darpanITadept/CoffeeSales_Analysis/assets/112990024/b2badc48-a5f4-496b-950d-b4a131e23c81">
+![Coffee Sales Dashboard](./path/to/image.png)
 
-## Overview
+## 📊 Overview
 
 This project presents a comprehensive Coffee Sales Dashboard created using Excel. The dashboard visualizes sales data for coffee beans, accumulated from various data tables such as orders, customers, and products. The visualizations include total sales over time, sales by country, and top customers, providing a detailed overview of sales performance.
 
-## Features
+## ✨ Features
 
-- **Order Date Filter**: Select the period of interest to filter sales data.
-- **Roast Type Filter**: Filter sales data based on coffee roast type (Dark, Light, Medium).
-- **Size Filter**: View sales data by coffee bean package size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg).
-- **Loyalty Card Filter**: Filter data based on customer loyalty card status (Yes, No).
-- **Total Sales Over Time**: A line chart visualizing sales trends over the specified period.
-- **Sales By Country**: A bar chart displaying sales amounts per country.
-- **Top 5 Customers**: A bar chart showing the top 5 customers based on sales amounts.
+- **📅 Order Date Filter**: Select the period of interest to filter sales data.
+- **🌱 Roast Type Filter**: Filter sales data based on coffee roast type (Dark, Light, Medium).
+- **📏 Size Filter**: View sales data by coffee bean package size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg).
+- **🎟️ Loyalty Card Filter**: Filter data based on customer loyalty card status (Yes, No).
+- **📈 Total Sales Over Time**: A line chart visualizing sales trends over the specified period.
+- **🌍 Sales By Country**: A bar chart displaying sales amounts per country.
+- **🏆 Top 5 Customers**: A bar chart showing the top 5 customers based on sales amounts.
 
-## Data Sources
+## 📁 Data Sources
 
 The dashboard consolidates data from the following tables:
-- **Orders**: Contains order details including order date, product ID, customer ID, quantity, and total amount.
-- **Customers**: Includes customer details such as customer ID, name, country, and loyalty card status.
-- **Products**: Contains product details including product ID, name, roast type, and package size.
+- **📦 Orders**: Contains order details including order date, product ID, customer ID, quantity, and total amount.
+- **👥 Customers**: Includes customer details such as customer ID, name, country, and loyalty card status.
+- **☕ Products**: Contains product details including product ID, name, roast type, and package size.
 
-## Getting Started
+## 🚀 Getting Started
 
 To use the Coffee Sales Dashboard, follow these steps:
 
@@ -37,22 +37,22 @@ To use the Coffee Sales Dashboard, follow these steps:
     - Use the filters to view sales data as per your requirements.
     - Analyze the visualizations to gain insights into sales performance.
 
-## Visualization
+## 📊 Visualization
 
 The dashboard provides the following visualizations:
 
-1. **Total Sales Over Time**: 
+1. **📉 Total Sales Over Time**: 
     - Displays sales trends for different coffee bean types (Arabica, Excelsa, Liberica, Robusta) over the selected period.
-2. **Sales By Country**: 
+2. **🌎 Sales By Country**: 
     - Highlights the sales performance in different countries with the United States being the top market.
-3. **Top 5 Customers**: 
+3. **🏅 Top 5 Customers**: 
     - Lists the top 5 customers contributing the most to sales.
 
-## Conclusion
+## 🔍 Conclusion
 
 The Coffee Sales Dashboard is a powerful tool for analyzing coffee bean sales data. By providing insights into sales trends, country-wise performance, and top customers, it helps in making informed business decisions. Feel free to explore the dashboard and use it for your analysis.
 
-## Contact
+## 📬 Contact
 
 For any queries or feedback, please reach out to [your email].
 
